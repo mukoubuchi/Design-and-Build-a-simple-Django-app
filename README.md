@@ -4,14 +4,13 @@
 
 ![Screenshot_2023-01-15_15-48-56](https://user-images.githubusercontent.com/54184905/212542140-1e131690-3681-4542-a50d-7f3a8d39ae58.png)
 
-
 # run
 - `python3 manage.py runserver`
   - execute the command on your terminal
     - `pip install django-bootstrap-ui`
-      - `sudo -H pip3 install django-bootstrap-ui`
-      - `python3 -m pip install --upgrade pip`
-        - try to execute these command if it doesn't work
+    - `sudo -H pip3 install django-bootstrap-ui`
+    - `python3 -m pip install --upgrade pip`
+      - try to execute these command if it doesn't work
 
 # open
 - `http://127.0.0.1:8000/`
