@@ -8,10 +8,10 @@
 # run
 - `python3 manage.py runserver`
   - execute the command on your terminal
-   - `pip install django-bootstrap-ui`
+    - `pip install django-bootstrap-ui`
       - `sudo -H pip3 install django-bootstrap-ui`
       - `python3 -m pip install --upgrade pip`
-      - try to execute these command if it doesn't work
+        - try to execute these command if it doesn't work
 
 # open
 - `http://127.0.0.1:8000/`
