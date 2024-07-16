@@ -1,0 +1,12 @@
+Django
+django-filter
+django-templated-mail
+djangorestframework
+djangorestframework-simplejwt
+Jinja2
+oauthlib
+pycparser
+PyJWT
+requests
+requests-oauthlib
+sqlparse
